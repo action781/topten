@@ -1,3 +1,4 @@
+#' Updated on 6/23/2017 and pushed to github
 #' Building a Model with Top Ten Features
 #'
 #' This function develops a prediction algorithm based on the top 10 features
